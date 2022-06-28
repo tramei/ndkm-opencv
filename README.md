@@ -15,13 +15,13 @@ https://www.youtube.com/watch?v=kAH9Bih32WE&t=634s
 - Bước 3: Nhận diện khuôn mặt
 https://www.youtube.com/watch?v=o7YaiI42jZg
 
-- Bước 4: Thiết kế giao diện hệ thống
+- Bước 4: Thiết kế giao diện hệ thống (Lên mạng nghiên cứu thư viện tkinter thiết kế giao diện trong python)
 
 Trong code có chú thích rõ. Chỉ có 1 chỗ mn phải hiểu là tọa độ để sắp xếp label, textbox, button được canh theo (x,y) = (0,0)
 
 Vị trí tọa độ (0,0) là ở góc trên-bên trái của cửa sổ "Hệ thống nhận diện khuôn mặt"
 
-Rồi từ đó mà tịnh tiến cho x,y = ... bao nhiêu đó để cân bằng
+Rồi từ đó mà tịnh tiến cho x,y = ... bao nhiêu đó để nhìn cân đối là được
 
 ------------------------------------------
 Ai muốn chạy thử thì mn down Project ở đây, do tui kh tải lên github đc :<
