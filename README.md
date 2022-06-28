@@ -20,3 +20,13 @@ https://www.youtube.com/watch?v=o7YaiI42jZg
 Trong code có chú thích rõ. Chỉ có 1 chỗ mn phải hiểu là tọa độ để sắp xếp label, textbox, button được canh theo (x,y) = (0,0)
 Vị trí tọa độ (0,0) là ở góc trên-bên trái của cửa sổ "Hệ thống nhận diện khuôn mặt"
 Rồi từ đó mà tịnh tiến cho x,y = ... bao nhiêu đó để cân bằng
+
+------------------------------------------
+Ai muốn chạy thử thì mn down Project ở đây, do tui kh tải lên github đc :<
+https://drive.google.com/file/d/196d2fG95uHc529oCbm_YT_53lIvUyvCy/view?usp=sharing
+
+Vào terminal, cài các thư viện này trước:
+- pip install cmake
+- pip install opencv-contrib-python
+- pip install opencv-python
+- pip install Pillow
