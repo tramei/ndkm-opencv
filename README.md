@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=kAH9Bih32WE&t=634s
 https://www.youtube.com/watch?v=o7YaiI42jZg
 
 - Bước 4: Thiết kế giao diện hệ thống
+
 Trong code có chú thích rõ. Chỉ có 1 chỗ mn phải hiểu là tọa độ để sắp xếp label, textbox, button được canh theo (x,y) = (0,0)
 Vị trí tọa độ (0,0) là ở góc trên-bên trái của cửa sổ "Hệ thống nhận diện khuôn mặt"
 Rồi từ đó mà tịnh tiến cho x,y = ... bao nhiêu đó để cân bằng
